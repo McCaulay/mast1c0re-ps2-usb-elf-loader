@@ -27,3 +27,4 @@ The USB root directory should contain a folder named "ELFs" which contains the E
   * 9.00
   * 10.01
   * 10.50
+  * 10.70
